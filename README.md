@@ -18,7 +18,7 @@ A simple and effective medicine reminder app built with **Python** that alerts u
 
 ## 📸 Screenshots
 
-![App Screenshot](https://via.placeholder.com/350x200.png?text=MedBot+Reminder+App)
+![App Screenshot](appscreenshot.png)
 
 ---
 
@@ -80,7 +80,7 @@ medbot-medicine-reminder/
 
 **Sakshi [Sakshi Raut]**  
 📧 [sakshiraut1251018@gmail.com]  
-🔗 [LinkedIn/GitHub Profile]
+🔗 [https://github.com/sakshir10/medbot-medicine-reminder]
 
 ---
 
